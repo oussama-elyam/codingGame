@@ -1,0 +1,4 @@
+//split the string by space
+        s = s.trim();
+        String[] result = s.split(" ");
+
